@@ -13,7 +13,7 @@ I'm a Computer Science student at IIIT Sri City with a passion to learn and expl
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shree2604&show_icons=true&locale=en&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Abhi-sunnyy&show_icons=true&locale=en&layout=compact)
 
 
 ---
